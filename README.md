@@ -15,7 +15,7 @@ beberapa syarat.
  > Harap diperhatikan pada bagian Form1.Designer.cs.
  > Kalian harus memahami struktur UI yang dipakai karena jika ada yang tidak sinkron maka program akan otomatis error.
 
-## 📷 Beberapa Screenshot
+## 📷 Preview
 
  <img src="Images/ezgif.com-gif-maker.gif" />
 

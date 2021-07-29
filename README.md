@@ -19,5 +19,5 @@ beberapa syarat.
 
  <img src="Images/ezgif.com-gif-maker.gif" />
 
-Feel Free to contact me on [Instagram](https://instagram/itsnikolai_)
+Feel Free to contact me on [Instagram](https://instagram/rizukyy27/?target=_blank)
 
